@@ -76,6 +76,8 @@ var o = ns;
 
 <div class="namespace-toc">
 
+-   <span class="signature">[`rffti( arrays )`][@stdlib/fft/base/fftpack/ndarray/generic/rffti]</span><span class="delimiter">: </span><span class="description">initialize a workspace array for performing a real-valued Fourier transform on a one-dimensional ndarray.</span>
+
 </div>
 
 <!-- </toc> -->
@@ -184,6 +186,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/fft-base-fftpack-ndarray-generic/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/fft/base/fftpack/ndarray/generic/rffti]: https://github.com/stdlib-js/fft-base-fftpack-ndarray-generic-rffti
 
 <!-- </toc-links> -->
 
