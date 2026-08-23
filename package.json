@@ -36,6 +36,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/fft-base-fftpack-ndarray-generic-cffti": "github:stdlib-js/fft-base-fftpack-ndarray-generic-cffti#main",
     "@stdlib/fft-base-fftpack-ndarray-generic-rffti": "github:stdlib-js/fft-base-fftpack-ndarray-generic-rffti#main",
     "@stdlib/utils-define-read-only-property": "^0.2.3"
   },
@@ -43,6 +44,7 @@
     "@stdlib/array-float64": "^0.2.3",
     "@stdlib/assert-is-almost-same-value": "^0.1.1",
     "@stdlib/assert-is-same-float64array": "^0.2.3",
+    "@stdlib/fft-base-fftpack-generic-cffti": "github:stdlib-js/fft-base-fftpack-generic-cffti#main",
     "@stdlib/fft-base-fftpack-generic-rffti": "github:stdlib-js/fft-base-fftpack-generic-rffti#main",
     "@stdlib/math-base-assert-is-nan": "^0.2.3",
     "@stdlib/ndarray-base-ctor": "^0.3.1",
