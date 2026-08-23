@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`f5cb262`](https://github.com/stdlib-js/stdlib/commit/f5cb26250ebd309d0d7bf6d3517f60aec7a651e6) - update `fft/base/fftpack/ndarray/generic` TypeScript declarations [(#14550)](https://github.com/stdlib-js/stdlib/pull/14550)
 -   [`8cc9874`](https://github.com/stdlib-js/stdlib/commit/8cc9874730f7a11721ff73ad4f4d53f91b4e34a7) - add `cffti` to namespace
 -   [`17f4077`](https://github.com/stdlib-js/stdlib/commit/17f407712b46ed4884d55b676400d460ebc7c079) - add `fft/base/fftpack/ndarray/generic/cffti` [(#13663)](https://github.com/stdlib-js/stdlib/pull/13663)
 -   [`6cfafbb`](https://github.com/stdlib-js/stdlib/commit/6cfafbb810ba060ffe26c685fc7dd177aad3f053) - update `fft/base/fftpack/ndarray/generic` TypeScript declarations [(#14461)](https://github.com/stdlib-js/stdlib/pull/14461)
@@ -26,6 +27,7 @@
 
 <details>
 
+-   [`f5cb262`](https://github.com/stdlib-js/stdlib/commit/f5cb26250ebd309d0d7bf6d3517f60aec7a651e6) - **feat:** update `fft/base/fftpack/ndarray/generic` TypeScript declarations [(#14550)](https://github.com/stdlib-js/stdlib/pull/14550) _(by stdlib-bot)_
 -   [`8cc9874`](https://github.com/stdlib-js/stdlib/commit/8cc9874730f7a11721ff73ad4f4d53f91b4e34a7) - **feat:** add `cffti` to namespace _(by Athan Reines)_
 -   [`2734bb3`](https://github.com/stdlib-js/stdlib/commit/2734bb3ac82d0174dfe502569e6902e20d4d4745) - **docs:** add missing notes [(#14528)](https://github.com/stdlib-js/stdlib/pull/14528) _(by Gunj Joshi, Athan Reines)_
 -   [`17f4077`](https://github.com/stdlib-js/stdlib/commit/17f407712b46ed4884d55b676400d460ebc7c079) - **feat:** add `fft/base/fftpack/ndarray/generic/cffti` [(#13663)](https://github.com/stdlib-js/stdlib/pull/13663) _(by Gunj Joshi)_
