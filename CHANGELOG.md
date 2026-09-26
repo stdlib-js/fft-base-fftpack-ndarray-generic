@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-25)
+## Unreleased (2026-09-26)
 
 <section class="features">
 
 ### Features
 
+-   [`1161415`](https://github.com/stdlib-js/stdlib/commit/11614155786581571f7a05f3a444c5ee560e51ce) - update `fft/base/fftpack/ndarray/generic` TypeScript declarations [(#15552)](https://github.com/stdlib-js/stdlib/pull/15552)
 -   [`61a90f6`](https://github.com/stdlib-js/stdlib/commit/61a90f65dd234c3877b1abfbf977273ac8d62a74) - add `rfftf` to namespace
 -   [`dd0bcfd`](https://github.com/stdlib-js/stdlib/commit/dd0bcfdc512d196f38a619b017b6c05b6eb9a7b8) - add `fft/base/fftpack/ndarray/generic/rfftf` [(#15395)](https://github.com/stdlib-js/stdlib/pull/15395)
 -   [`a97d043`](https://github.com/stdlib-js/stdlib/commit/a97d043bda55fdd63e6d722a4feeb7c062a230d8) - update `fft/base/fftpack/ndarray/generic` TypeScript declarations [(#14642)](https://github.com/stdlib-js/stdlib/pull/14642)
@@ -33,6 +34,7 @@
 
 <details>
 
+-   [`1161415`](https://github.com/stdlib-js/stdlib/commit/11614155786581571f7a05f3a444c5ee560e51ce) - **feat:** update `fft/base/fftpack/ndarray/generic` TypeScript declarations [(#15552)](https://github.com/stdlib-js/stdlib/pull/15552) _(by stdlib-bot)_
 -   [`61a90f6`](https://github.com/stdlib-js/stdlib/commit/61a90f65dd234c3877b1abfbf977273ac8d62a74) - **feat:** add `rfftf` to namespace _(by Athan Reines)_
 -   [`dd0bcfd`](https://github.com/stdlib-js/stdlib/commit/dd0bcfdc512d196f38a619b017b6c05b6eb9a7b8) - **feat:** add `fft/base/fftpack/ndarray/generic/rfftf` [(#15395)](https://github.com/stdlib-js/stdlib/pull/15395) _(by Gunj Joshi, Athan Reines)_
 -   [`75586a9`](https://github.com/stdlib-js/stdlib/commit/75586a917959100877037f53fef14bd4037ccf17) - **docs:** update the notes of `fft/base/fftpack/ndarray/*` packages [(#15220)](https://github.com/stdlib-js/stdlib/pull/15220) _(by Gunj Joshi)_
